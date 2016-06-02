@@ -1,0 +1,31 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Conta"
+provides-nominal:
+- "C17CommandLineSample5Conta"
+provides-member:
+- ["C17CommandLineSample5Conta", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Conta"
+- "Int"
+depends-member:
+- ["Ps9AnyObject", ""]
+- ["C17CommandLineSample5Conta", "Int"]
+- ["C17CommandLineSample5Conta", "conta"]
+- ["C17CommandLineSample5Conta", "deinit"]
+- ["C17CommandLineSample5Conta", "init"]
+- ["C17CommandLineSample5Conta", "total"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C17CommandLineSample5Conta"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+interface-hash: "dcb9b83dc996d55eae39e904ab03c006"

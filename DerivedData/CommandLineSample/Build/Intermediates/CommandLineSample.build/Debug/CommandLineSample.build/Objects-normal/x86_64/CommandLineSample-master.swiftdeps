@@ -1,0 +1,12 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "e426d66f95852c69036d7781a4bdb610"
+build_time: [518190513, 288428000]
+inputs:
+  "/Users/renatomatos/Documents/Dev/iOS/CommandLineSample/CommandLineSample/Utils/Saida.swift": [518190155, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/CommandLineSample/CommandLineSample/Models/Conta.swift": [517944034, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/CommandLineSample/CommandLineSample/Utils/Path.swift": [518189532, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/CommandLineSample/CommandLineSample/main.swift": [518190412, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/CommandLineSample/CommandLineSample/Utils/Loader.swift": [518190253, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/CommandLineSample/CommandLineSample/Utils/Parser.swift": [518190446, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/CommandLineSample/CommandLineSample/Models/Transacao.swift": [517944101, 0]
+  "/Users/renatomatos/Documents/Dev/iOS/CommandLineSample/CommandLineSample/Models/Banco.swift": [517944155, 0]
